@@ -1,4 +1,4 @@
-# Assignment_03_QuizzApp
+# QuizzApp
 # Quiz App
 
     Build an Android App with two languages and the use of File Storage
